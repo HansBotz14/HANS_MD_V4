@@ -6,24 +6,24 @@
 // RECODE BACK BY ARULL OFC
 
 //=============『 Utama 』================== //
-global.owner = ['6281228391267'] 
-global.mods = ['6281228391267'] 
-global.prems = ['6281228391267'] 
+global.owner = ['6287773311781'] 
+global.mods = ['6287773311781'] 
+global.prems = ['6287773311781'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Hz22シ︎'
-global.numberowner = '6281228391267'
-global.instagram = 'https://instagram.com/hz22yt'
-global.github = 'https://github.com/'
+global.nameowner = 'Hansシ︎'
+global.numberowner = '6287773311781'
+global.instagram = '-'
+global.github = 'https://github.com/HansBotz14'
 global.dana = 'gaada banh'
-global.pulsa = 'ga open'
+global.pulsa = 'chat owner banh'
 global.gopay = 'chat owner banh'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'Hz22Bot'
+global.namebot = 'HansBOT'
 global.gc = 'https://chat.whatsapp.com/BWHj9FDpXEN639emtLdj1O'
-global.web = 'https://chat.whatsapp.com/BWHj9FDpXEN639emtLdj1O' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.webm = 'https://saweria.co/hz22yt'
+global.web = 'https://github.com/HansBotz14' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.webm = '-'
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》1 MINGGU Rp 5.000\nMAKSIMAL 1 GRUP\n》1 BULAN  Rp 10.000\nMAKSIMAL 1 GRUP \n》 Rp 20.000\nMAKSIMAL 1 GRUP + PREMIUM\n》PERMANEN Rp 30.000\nMAKSIMAL 3 GRUP\n》4 BULAN  Rp 25.000\nMAKSIMAL 2 GRUP + PREMIUM\n\nMAU NAMBAH GRUP LAGI \nPERMANEN Rp 25.000\nMAKSIMAL 2 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
@@ -31,10 +31,10 @@ global.fotonya1 = 'https://i.postimg.cc/V6WPWgcT/20220702-151247.jpg' //ganti ja
 global.fotonya2 = 'https://i.postimg.cc/V6WPWgcT/20220702-151247.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'Hz22Bot'
+global.wm = 'HansBOT'
 global.watermark = wm
-global.wm2 = 'ᯤ Creator By Hz22 ×፝֟͜×'
-global.wm3 = 'ᯤ Hz22'
+global.wm2 = 'ᯤ Creator By Hans ×፝֟͜×'
+global.wm3 = 'ᯤ Hans'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://i.postimg.cc/V6WPWgcT/20220702-151247.jpg'
@@ -45,7 +45,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
 global.packname = 'Sticker By'
-global.author = '@ArullOfc✵'
+global.author = '@Hans✵'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
